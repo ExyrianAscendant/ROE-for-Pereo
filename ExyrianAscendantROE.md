@@ -5,14 +5,14 @@ The following rules and guidelines are provided to help foster an enjoyable and 
 Blatant disrespect toward members of Exyrian Ascendant or disregard for these rules may result in anything from a stern talking-to… to a ban.
 
 ## Table of Contents
-[General Rules & Conduct](#general-rules-conduct)
-[Banned Equipment](#banned-equipment)
-[Movement Enhancers](#movement-enhancers)
-[Weapons & Equipment](#weapons-equipment)
-[Explosives & Area of Effect (AoE)](#explosives-aoe)
-[Deployables & Auto-Turrets](#deployables-autoturrets)
-[Vehicles & Armor Systems (Current Status: Not Authorized)](#vehicles-armor)
-[Changelog](#changelog)
+- [General Rules & Conduct](#general-rules-&-conduct)
+- [Banned Equipment](#banned-equipment)
+- [Movement Enhancers](#movement-enhancers)
+- [Weapons & Equipment](#weapons-&-equipment)
+- [Explosives & Area of Effect](#explosives-&-area-of-effect)
+- [Deployables & Auto-Turrets](#deployables-&-auto-turrets)
+- [Vehicles & Armor Systems](#vehicles-&-armor-systems)<b>(Current Status: Not Authorized)</b>
+- [Changelog](#changelog)
 
 ## General Rules & Conduct
       The instructions of our OICs and Officers are to be followed. 
