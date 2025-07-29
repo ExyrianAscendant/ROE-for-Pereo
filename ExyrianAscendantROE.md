@@ -11,7 +11,7 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
 - [Weapons and Equipment](#weapons-and-equipment)
 - [Explosives and Area of Effect](#explosives-and-area-of-effect)
 - [Deployables and Auto-Turrets](#deployables-and-auto-turrets)
-- [Vehicles and Armor Systems](#vehicles-and-armor-systems) <b>(Current Status: Not Authorized)</b>
+- [Vehicles and Armor Systems](#vehicles-and-armor-systems)
 - [Changelog](#changelog)
 
 ## General Rules and Conduct
@@ -70,7 +70,8 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
 * Deployables may have a maximum HP of 100 at deployment and can be repaired or constructed to higher values, but their HP cannot exceed 300.
 * Auto-turrets or mortars are not currently permitted.
 
-## Vehicles and Armor Systems (Current Status: Not Authorized)
+## Vehicles and Armor Systems
+**(Current Status: Not Authorized)**
 * All armored units (vehicles and avatars) must utilize LBA-compatible armor.
 * Armored units may hover or use jetpacks no more than 15 meters above the ground.
 * Self-repair or healing functions on armor layers on units must have a cooldown of at least 1 minute.
