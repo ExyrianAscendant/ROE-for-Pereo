@@ -1,5 +1,5 @@
 # <p align="center">Exyrian Ascendant</p>
-## <p align="center">RULES OF ENGAGEMENT</p>
+<p align="center">RULES OF ENGAGEMENT</p>
 <p align="center">Location: Pereo</p>
 
 The following rules and guidelines are provided to help foster an enjoyable and respectful environment for SLMC combat.
