@@ -15,15 +15,15 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
 - [Changelog](#changelog)
 
 ## General Rules & Conduct
-      The instructions of our OICs and Officers are to be followed. 
-      We may ask you to stop using any item until it can be reviewed. Use may resume if all parties involved agree.
-      Beta-test or pre-release equipment should be checked with the defending OIC. There is to be no manner of re-scripting or script editing from attackers during a single fight.
-      Attackers are free to use any [EX] provided equipment, including in cases where their own equipment is rejected for use.
-      Teleporting or medicing is prohibited.
-      Do not enter red spawn zones, and do not shoot into them unless you are returning fire.
-      No loud or obnoxious sounds are allowed.
-      Avatars must be at least 1.5 meters tall and represent age-appropriate characters.
-      Prejump must be enabled.
+1: The instructions of our OICs and Officers are to be followed. 
+2: We may ask you to stop using any item until it can be reviewed. Use may resume if all parties involved agree.
+3: Beta-test or pre-release equipment should be checked with the defending OIC. There is to be no manner of re-scripting or script editing from attackers during a single fight.
+4: Attackers are free to use any [EX] provided equipment, including in cases where their own equipment is rejected for use.
+5: Teleporting or medicing is prohibited.
+6: Do not enter red spawn zones, and do not shoot into them unless you are returning fire.
+7: No loud or obnoxious sounds are allowed.
+8: Avatars must be at least 1.5 meters tall and represent age-appropriate characters.
+9: Prejump must be enabled.
 
 ## Banned Equipment
       Agent list guns are prohibited; sensor-based weapons must have LoS checks.
