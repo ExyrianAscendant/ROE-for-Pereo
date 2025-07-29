@@ -5,16 +5,16 @@ The following rules and guidelines are provided to help foster an enjoyable and 
 Blatant disrespect toward members of Exyrian Ascendant or disregard for these rules may result in anything from a stern talking-to… to a ban.
 
 ## Table of Contents
-- [General Rules & Conduct](#general-rules-&-conduct)
+- [General Rules and Conduct](#general-rules-and-conduct)
 - [Banned Equipment](#banned-equipment)
 - [Movement Enhancers](#movement-enhancers)
-- [Weapons & Equipment](#weapons-&-equipment)
-- [Explosives & Area of Effect](#explosives-&-area-of-effect)
-- [Deployables & Auto-Turrets](#deployables-&-auto-turrets)
-- [Vehicles & Armor Systems](#vehicles-&-armor-systems) <b>(Current Status: Not Authorized)</b>
+- [Weapons and Equipment](#weapons-and-equipment)
+- [Explosives and Area of Effect](#explosives-and-area-of-effect)
+- [Deployables and Auto-Turrets](#deployables-and-auto-turrets)
+- [Vehicles and Armor Systems](#vehicles-and-armor-systems) <b>(Current Status: Not Authorized)</b>
 - [Changelog](#changelog)
 
-## General Rules & Conduct
+## General Rules and Conduct
 * The instructions of our OICs and Officers are to be followed. 
 * We may ask you to stop using any item until it can be reviewed. Use may resume if all parties involved agree.
 * Beta-test or pre-release equipment should be checked with the defending OIC. There is to be no manner of re-scripting or script editing from attackers during a single fight.
@@ -47,7 +47,7 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
  - Cannot be performed in the air.
  - Minimum recharge time of 6 seconds.
 
-## Weapons & Equipment
+## Weapons and Equipment
 * All weapons must represent some coded cooldown or reload, without exception.
 * Shotguns should fire prim bullets or use raycast.
 * Bullets must not intentionally penetrate walls, barricades, or shields designed to stop them with lethal intent.
@@ -57,7 +57,7 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
 * Healing abilities are not currently permitted.
 * Riot shields are allowed but must not exceed 50 HP, must diminish under standard collisions, and must be directional.
 
-## Explosives & Area of Effect (AoE)
+## Explosives and Area of Effect
 * Explosives should have a kill radius of no more than 5 meters and a wound radius of no more than 10 meters unless highly directional or unless a wind-up time that is choreographed both visually and audibly for several seconds exists.
 * Explosives must not kill through walls or other solid objects.
 * AoE and explosive damage must not be group-safe.
@@ -65,12 +65,12 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
 * Deployable mines must be at least 0.25 x 0.25 x 0.04 meters in size.
 * Do not use flak weapons of any kind.
 
-## Deployables & Auto-Turrets
+## Deployables and Auto-Turrets
 * Deployables must diminish in health under standard collisions.
 * Deployables may have a maximum HP of 100 at deployment and can be repaired or constructed to higher values, but their HP cannot exceed 300.
 * Auto-turrets or mortars are not currently permitted.
 
-## Vehicles & Armor Systems (Current Status: Not Authorized)
+## Vehicles and Armor Systems (Current Status: Not Authorized)
 * All armored units (vehicles and avatars) must utilize LBA-compatible armor.
 * Armored units may hover or use jetpacks no more than 15 meters above the ground.
 * Self-repair or healing functions on armor layers on units must have a cooldown of at least 1 minute.
