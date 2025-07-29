@@ -11,7 +11,7 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
 - [Weapons & Equipment](#weapons-&-equipment)
 - [Explosives & Area of Effect](#explosives-&-area-of-effect)
 - [Deployables & Auto-Turrets](#deployables-&-auto-turrets)
-- [Vehicles & Armor Systems](#vehicles-&-armor-systems)<b>(Current Status: Not Authorized)</b>
+- [Vehicles & Armor Systems](#vehicles-&-armor-systems) <b>(Current Status: Not Authorized)</b>
 - [Changelog](#changelog)
 
 ## General Rules & Conduct
