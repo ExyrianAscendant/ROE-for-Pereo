@@ -94,4 +94,5 @@ v1.3 28 JUL 2025:
 
 v1.4 06 SEP 2025
 - Breach charges and mortars now permitted.
+- Grapple hooks clarified to not be allowed at this time
 - Identified group leads.
