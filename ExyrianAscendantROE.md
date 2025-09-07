@@ -1,6 +1,7 @@
 # <p align="center">Exyrian Ascendant</p>
 <p align="center">RULES OF ENGAGEMENT</p>
 <p align="center">Location: Pereo</p>
+<p align="center">Current acting organization heads: Nordic Sarjeant, Tyreal Mortal, Aria Thexios</p>
 
 The following rules and guidelines are provided to help foster an enjoyable and respectful environment for SLMC combat.
 Blatant disrespect toward members of Exyrian Ascendant or disregard for these rules may result in anything from a stern talking-to… to a ban.
@@ -31,7 +32,6 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
 * Weapons designed to kill through obstacles that would normally stop them are prohibited.
 * Seeker-style munitions may not be used against any sort of infantry.
 * Fully automatic raycast weapons are not allowed at this time.
-* Breach–style equipment is currently prohibited.
 
 ### Movement Enhancers
 * Jetpacks: **(Current Status: Not Authorized)**
@@ -52,7 +52,7 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
 * All weapons must represent some coded cooldown or reload, without exception.
 * Shotguns should fire prim bullets or use raycast.
 * Bullets must not intentionally penetrate walls, barricades, or shields designed to stop them with lethal intent.
-* Any type of temporary deterrent, such as smoke, flashbangs, flames, etc., should never last more than 10 seconds.
+* Any type of temporary deterrent, such as smoke, flashbangs, flames, etc, should never last more than 10 seconds.
 * Strict movement inhibitors on equipment or its effects are not authorized.
 * Body armor that provides full 360° protection (Combat 2.0) requires prior approval is currently NOT AUTHORIZED.
 * Healing abilities are not currently permitted.
@@ -65,11 +65,13 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
 * Deployable explosives must have a maximum HP of 1 and be destroyable by standard projectiles.
 * Deployable mines must be at least 0.25 x 0.25 x 0.04 meters in size.
 * Do not use flak weapons of any kind.
+* Breach equipment is **permitted.**
 
 ### Deployables and Auto-Turrets
 * Deployables must diminish in health under standard collisions.
 * Deployables may have a maximum HP of 100 at deployment and can be repaired or constructed to higher values, but their HP cannot exceed 300.
-* Auto-turrets or mortars are not currently permitted.
+* Auto-turrets are not currently permitted.
+* Mortars are **permitted.**
 
 ### Vehicles and Armor Systems
 **(Current Status: Not Authorized)**
@@ -87,3 +89,7 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
 ### Changelog
 v1.3 28 JUL 2025:
 - Formatting
+
+v1.4 06 SEP 2025
+- Breach charges and mortars now permitted.
+- Identified group leads.
