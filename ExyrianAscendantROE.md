@@ -36,19 +36,19 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
 
 ### Movement Enhancers
 * Jetpacks: **(Current Status: Not Authorized)**
- - Cannot recharge while in the air.
- - Should only move the avatar a reasonable distance in any direction (the full width of a region is not considered reasonable).
+  - Cannot recharge while in the air.
+  - Should only move the avatar a reasonable distance in any direction (the full width of a region is not considered reasonable).
 * Jump packs/ Boost packs: **(Current Status: Not Authorized)**
- - Cannot recharge while in the air.
- - Should have a minimum recharge time of 3 seconds. 
- - Should only move the avatar a reasonable distance in any direction (the full width of a region is not considered reasonable).
+  - Cannot recharge while in the air.
+  - Should have a minimum recharge time of 3 seconds. 
+  - Should only move the avatar a reasonable distance in any direction (the full width of a region is not considered reasonable).
 * Grapple Hooks: **(Current Status: Not Authorized)**
 * Sprints:
- - Must be reasonable, and should not be abused to the detriment of fair combat.
+  - Must be reasonable, and should not be abused to the detriment of fair combat.
 * Diverolls & Dashes:
- - Maximum distance of 15 meters.
- - Cannot be performed in the air.
- - Minimum recharge time of 6 seconds.
+  - Maximum distance of 15 meters.
+  - Cannot be performed in the air.
+  - Minimum recharge time of 6 seconds.
 
 ### Weapons and Equipment
 * All weapons must represent some coded cooldown or reload, without exception.
