@@ -29,7 +29,7 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
 * Prejump must be enabled.
 
 ### Banned Equipment
-* Agent list guns are prohibited; sensor-based weapons must have LoS checks.
+* Agent list guns are prohibited; sensor-based weapons must have line-of-sight checks.
 * Weapons designed to kill through obstacles that would normally stop them are prohibited.
 * Seeker-style munitions may not be used against any sort of infantry.
 * Fully automatic raycast weapons are not allowed at this time.
