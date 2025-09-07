@@ -42,6 +42,7 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
  - Cannot recharge while in the air.
  - Should have a minimum recharge time of 3 seconds. 
  - Should only move the avatar a reasonable distance in any direction (the full width of a region is not considered reasonable).
+* Grapple Hooks: **(Current Status: Not Authorized)**
 * Sprints:
  - Must be reasonable, and should not be abused to the detriment of fair combat.
 * Diverolls & Dashes:
