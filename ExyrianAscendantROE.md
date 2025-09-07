@@ -3,6 +3,7 @@
 <p align="center">Location: Pereo</p>
 <p align="center">Current acting organization heads: Nordic Sarjeant, Tyreal Mortal, Aria Thexios</p>
 
+
 The following rules and guidelines are provided to help foster an enjoyable and respectful environment for SLMC combat.
 Blatant disrespect toward members of Exyrian Ascendant or disregard for these rules may result in anything from a stern talking-to… to a ban.
 
