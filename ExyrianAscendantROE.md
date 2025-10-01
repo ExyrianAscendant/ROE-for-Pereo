@@ -42,7 +42,7 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
   - Cannot recharge while in the air.
   - Should have a minimum recharge time of 3 seconds. 
   - Should only move the avatar a reasonable distance in any direction (the full width of a region is not considered reasonable).
-* Grapple Hooks: **(Current Status: Not Authorized)**
+* Grapple Hooks: **Now permitted.** Ex's current grapple has a range of 32 meters and a cooldown of 4 seconds. It would be courteous to ensure your grapples have similar constraints.
 * Sprints:
   - Must be reasonable, and should not be abused to the detriment of fair combat.
 * Diverolls & Dashes:
@@ -96,3 +96,6 @@ v1.4 06 SEP 2025
 - Breach charges and mortars now permitted.
 - Grapple hooks clarified to not be allowed at this time
 - Identified group leads.
+
+v1.5 01 OCT 2025
+- Grapple hooks now permitted.
