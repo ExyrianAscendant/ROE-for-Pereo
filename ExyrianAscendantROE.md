@@ -38,11 +38,11 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
 * Jetpacks: **(Current Status: Not Authorized)**
   - Cannot recharge while in the air.
   - Should only move the avatar a reasonable distance in any direction (the full width of a region is not considered reasonable).
-* Jump packs/ Boost packs: **(Current Status: Not Authorized)**
-  - Cannot recharge while in the air.
-  - Should have a minimum recharge time of 3 seconds. 
-  - Should only move the avatar a reasonable distance in any direction (the full width of a region is not considered reasonable).
-* Grapple Hooks: **Now permitted.** Ex's current grapple has a range of 32 meters and a cooldown of 4 seconds. It would be courteous to ensure your grapples have similar constraints.
+* Jump packs/ Boost packs: **Authorized**
+  - Keep your boostpack reasonable. It should be a BOOST pack, not a catapult-yourself-across-the-sim pack.
+  - If yours doesn't match well with ours or you don't have one, we provide a copy for free use in the attacker spawn. You're welcome to grab one.
+  - If we feel that yours doesn't meet the "reasonable" bar we described above, we reserve the right to ask you to take it off and use the free copy we offer instead.
+* Grapple Hooks: **Permitted.** Ex's current grapple has a range of 32 meters and a cooldown of 4 seconds. It would be courteous to ensure your grapples have similar constraints.
 * Sprints:
   - Must be reasonable, and should not be abused to the detriment of fair combat.
 * Diverolls & Dashes:
@@ -89,13 +89,21 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
 
 
 ### Changelog
-v1.3 28 JUL 2025:
-- Formatting
+
+v1.6 31 JAN 2026
+- Boost packs now permitted, restrictions adjusted.
+
+v1.5 01 OCT 2025
+- Grapple hooks now permitted.
 
 v1.4 06 SEP 2025
 - Breach charges and mortars now permitted.
 - Grapple hooks clarified to not be allowed at this time
 - Identified group leads.
 
-v1.5 01 OCT 2025
-- Grapple hooks now permitted.
+v1.3 28 JUL 2025:
+- Formatting
+
+
+
+
