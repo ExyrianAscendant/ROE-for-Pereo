@@ -19,6 +19,7 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
 
 ### General Rules and Conduct
 * The instructions of our OICs and officers are to be followed at all times.
+* Annoying asshole clause: Pereo is open to combat, not verbal abuse and harassment. Communication should be relayed only to the OIC, and it must be at least civil.
 * We may ask you to stop using any item until it can be reviewed. Use may resume if all parties involved agree.
 * Beta-test or pre-release equipment should be not be used without first obtaining the defending OIC's consent. We do not permit in-field script editing from attackers during an ongoing fight.
 * Attackers are free to use any [EX] provided equipment, especially in cases where their own equipment is rejected for use.
@@ -90,6 +91,7 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
 
 v1.7 20 JUL 2026
 - Removed Aria Thexios from list of group leadership.
+- Added "annoying asshole" clause
 - Clarified Vehicle and Armor System & Jetpacks sections to indicate they are not being used at this time, just there as a framework for later on.
 - Tweaked several sections to use less confusing wording.
 
