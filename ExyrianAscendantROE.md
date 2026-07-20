@@ -19,7 +19,7 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
 
 ### General Rules and Conduct
 * The instructions of our OICs and officers are to be followed at all times.
-* Annoying asshole clause: Pereo is open to combat, not verbal abuse and harassment. Communication should be relayed only to the OIC, and it must be at least civil.
+* Annoying asshole clause: Pereo is open to combat, not verbal abuse and harassment. Communication should be relayed only to the OIC, and it must be at least civil. You don't have to like us personally, but if you have toxic BS, keep it to yourself.
 * We may ask you to stop using any item until it can be reviewed. Use may resume if all parties involved agree.
 * Beta-test or pre-release equipment should be not be used without first obtaining the defending OIC's consent. We do not permit in-field script editing from attackers during an ongoing fight.
 * Attackers are free to use any [EX] provided equipment, especially in cases where their own equipment is rejected for use.
