@@ -56,7 +56,7 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
 * Shotguns should fire prim bullets or use raycast.
 * Bullets must not intentionally penetrate walls, barricades, or shields designed to stop them.
 * Any type of temporary deterrent, such as smoke, flashbangs, flames, etc, should never last more than 10 seconds.
-* Strict movement inhibitors on equipment or its effects are not permitted.
+* Movement inhibitors, such as stun effects, produced strictly for that purpose and none other (such as to kill), are not permitted.
 * Healing abilities are not currently permitted.
 * Riot shields are allowed but must not exceed 50 HP, must take damage from standard collisions, and must be directional.
 
@@ -64,13 +64,13 @@ Blatant disrespect toward members of Exyrian Ascendant or disregard for these ru
 * Explosives should have a kill radius of no more than 5 meters and a wound radius of no more than 10 meters unless highly directional or unless the equipment includes a wind-up time that is choreographed both visually and audibly for several seconds before launching/deploying.
 * Explosives must not kill through walls or other solid objects.
 * AoE and explosive damage must not be group-safe.
-* Deployable explosives must have a maximum HP of 1 and be destroyable by standard projectiles.
+* Deployable explosives must have a maximum HP of 1 and be destroyable by standard projectiles and scripted damage.
 * Deployable mines must be at least 0.25 x 0.25 x 0.04 meters in size.
 * No flak weapons of any kind are permitted.
 * Breach equipment is permitted.
 
 ### Deployables and Auto-Turrets
-* Deployables must take damage from standard projectiles.
+* Deployables must be scripted to LBA Light standards (take damage from collisions and scripted damage).
 * Deployables may have a maximum HP of 100 at deployment. They may be repaired or constructed to higher values after deployment, up to a maximum of 300.
 * Auto-turrets are not permitted.
 * Mortars are permitted.
